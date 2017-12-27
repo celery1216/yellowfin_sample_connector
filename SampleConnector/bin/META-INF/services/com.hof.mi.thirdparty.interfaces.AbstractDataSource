@@ -1,0 +1,8 @@
+com.hof.imp.GoogleAnalytics
+com.hof.imp.TestDataSource
+com.hof.imp.TwitterDataSource
+com.hof.imp.XeroDataSource
+com.hof.imp.LinkedInDataSource
+com.hof.imp.GoogleSheetsDataSource
+com.hof.imp.YoutubeAnalyticsDataSource
+com.hof.imp.OutlookCalendarDataSource
